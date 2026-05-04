@@ -121,7 +121,8 @@ consumer-behaviour-analytics/
 
 ## 🖼️ Dashboard Preview
 
-> *(Add a screenshot of your Power BI dashboard here)*
+<img width="978" height="546" alt="Screenshot 2026-04-28 130731" src="https://github.com/user-attachments/assets/06fa4adb-44d8-418a-b29f-f59ed703ed7a" />
+
 
 ---
 
